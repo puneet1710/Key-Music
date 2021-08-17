@@ -36,22 +36,22 @@ header p {
   flex: 1;
 }
 .pad1 {
-  background: #60d394;
+  background: #64C9CF;
 }
 .pad2 {
-  background: #d36060;
+  background: #FDE49C;
 }
 .pad3 {
-  background: #c060d3;
+  background: #FF67E7 ;
 }
 .pad4 {
-  background: #d3d160;
+  background: #FFB740;
 }
 .pad5 {
-  background: #606bd3;
+  background: #FF6B6B;
 }
 .pad6 {
-  background: #60c2d3;
+  background: #DF711B;
 }
 
 .visual  div {
